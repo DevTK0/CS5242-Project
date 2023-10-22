@@ -208,7 +208,8 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python
 
-data/CAM16/
+data/CAM16/CAM16_100cls_10mask/test/
+data/CAM16/CAM16_100cls_10mask/val/
 data/pRCC/
 data/WBC/
 models/
